@@ -9,6 +9,16 @@
 
 ---
 
+## 下载
+
+| 版本 | 说明 |
+|---|---|
+| [NCMLite-v1.0.apk](releases/NCMLite-v1.0.apk) | 免 root 版，37 KB |
+
+安装后按 [使用说明](docs/USAGE.md) 里的三步授权即可。
+
+---
+
 ## 和 root 版的区别
 
 | | NCM Archive（root 版） | **NCM Lite（本项目）** |

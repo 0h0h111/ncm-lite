@@ -11,11 +11,11 @@
 
 ## 下载
 
-| 版本 | 说明 |
-|---|---|
-| [NCMLite-v1.0.apk](releases/NCMLite-v1.0.apk) | 免 root 版，37 KB |
+到页面最下方的 **Releases** 区域下载最新版本：
 
-安装后按 [使用说明](docs/USAGE.md) 里的三步授权即可。
+> 👉 **https://github.com/0h0h111/ncm-lite/releases**
+
+下载 `NCMLite-v1.0.apk`（37 KB），装好后按下面的三步授权。
 
 ---
 

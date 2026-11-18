@@ -1,7 +1,10 @@
 build/
-*.apk
 *.idsig
 *.jks
 *.keystore
 .DS_Store
 *.log
+
+# 允许发布包
+*.apk
+!releases/*.apk
